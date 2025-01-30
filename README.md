@@ -43,7 +43,7 @@ Here’s how the models performed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git](https://github.com/bikashbanjaraa/Treeleaf_AI_task
+   git clone https://github.com/bikashbanjaraa/Treeleaf_AI_task
    ```
 
    
