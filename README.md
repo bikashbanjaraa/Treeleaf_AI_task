@@ -46,8 +46,8 @@ Here’s how the models performed:
    git clone https://github.com/your-username/your-repo.git
    ```
 
-   ```
-2. Run the model training script:
+   
+2. Run the model training script
   
 3. View performance results.
    ![image](https://github.com/user-attachments/assets/f395fca1-fb43-4146-851d-f33a73e6a62b)
