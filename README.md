@@ -43,13 +43,14 @@ Here’s how the models performed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/your-username/your-repo.git](https://github.com/bikashbanjaraa/Treeleaf_AI_task
    ```
 
    
 2. Run the model training script
   
 3. View performance results.
+   
    ![image](https://github.com/user-attachments/assets/f395fca1-fb43-4146-851d-f33a73e6a62b)
 
    ![image](https://github.com/user-attachments/assets/4264e93f-d851-48c0-ae0e-a4f0085234d4)
