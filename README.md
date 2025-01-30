@@ -12,7 +12,7 @@ The goal is to evaluate these models based on different performance metrics to d
 
 ## Dataset
 
-We trained and tested the models on a dataset with features (X) and labels (y). The dataset was split into training and testing sets.
+We have used the Titanic dataset which is available in kaggle.We trained and tested the models on a dataset with features (X) and labels (y). The dataset was split into training(80%) and testing sets(20%).
 
 ## Performance Metrics
 
@@ -47,7 +47,7 @@ Here’s how the models performed:
    ```
 
    
-2. Run the model training script
+2. Run the model training script on your system.
   
 3. View performance results.
    
